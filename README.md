@@ -5,5 +5,5 @@
 * 分析軟體: Weka
 * 可視化軟體: Tableau
 ***
-[期末報告](https://github.com/TH04e22/taiwan_drugs_opendata_analysis/blob/master/108-1_%E5%B7%A8%E9%87%8F%E8%B3%87%E6%96%99%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A_0451030_%E9%BB%83%E6%9F%8F%E7%9A%93_0551076_%E9%BB%83%E6%B3%B0%E6%BA%90.docx)
-[期末簡報](https://github.com/TH04e22/taiwan_drugs_opendata_analysis/blob/master/108-1_%E5%B7%A8%E9%87%8F%E8%B3%87%E6%96%99%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A_0451030_%E9%BB%83%E6%9F%8F%E7%9A%93_0551076_%E9%BB%83%E6%B3%B0%E6%BA%90.pptx)
+* [期末報告](https://github.com/TH04e22/taiwan_drugs_opendata_analysis/blob/master/108-1_%E5%B7%A8%E9%87%8F%E8%B3%87%E6%96%99%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A_0451030_%E9%BB%83%E6%9F%8F%E7%9A%93_0551076_%E9%BB%83%E6%B3%B0%E6%BA%90.docx)
+* [期末簡報](https://github.com/TH04e22/taiwan_drugs_opendata_analysis/blob/master/108-1_%E5%B7%A8%E9%87%8F%E8%B3%87%E6%96%99%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A_0451030_%E9%BB%83%E6%9F%8F%E7%9A%93_0551076_%E9%BB%83%E6%B3%B0%E6%BA%90.pptx)
